@@ -1,0 +1,4 @@
+- Hi, I'm Joahan, and I'm currently studying an Engineering in Telecommunications, Systems and Electronics at UNAM.
+- I'm geeting started in my way to learn to code because I'm really interested into software engineering and software develepment.
+- I leave my email address for contact and I hope to count on you in order to learn and improve as a programmer:
+- joahansobris@gmail.com
